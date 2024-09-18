@@ -1,25 +1,8 @@
 # Cricket-Database-Management-System-Web_Development-Project
 
-![1](https://github.com/user-attachments/assets/54e0fd15-bb0e-4de9-897f-90552c541bd0)
-![2](https://github.com/user-attachments/assets/c00971a6-c9b7-492d-92b9-1730ea0d9cf6)
-![3](https://github.com/user-attachments/assets/ea18d555-457e-4696-8dac-200c04a83a64)
-![4](https://github.com/user-attachments/assets/557bad06-2e6f-41a3-b744-a14612a484e0)
-![5](https://github.com/user-attachments/assets/3c4dd827-34af-419b-b548-cdda885073fe)
-![6](https://github.com/user-attachments/assets/1feb289c-f99b-49bf-80ac-6a1522dea088)
-![7](https://github.com/user-attachments/assets/c2abce4e-b888-41a7-81c1-6271e8595e5b)
-![8](https://github.com/user-attachments/assets/fe2b3615-9787-40b0-b70b-4b965a2ef934)
-![9](https://github.com/user-attachments/assets/52e18235-dd93-4c44-bdcc-b42c4e2cf646)
-![10](https://github.com/user-attachments/assets/8fd69adb-0a4d-40f7-977d-186d95f2f770)
-![11](https://github.com/user-attachments/assets/42441e41-68e9-4423-a600-cc6c3389bbb0)
-![12](https://github.com/user-attachments/assets/ee4a7473-41f3-4830-867b-ce68a63a67bc)
-![13](https://github.com/user-attachments/assets/7ec773e9-67c8-4bd3-b7de-b1d78ef820e6)
-![14](https://github.com/user-attachments/assets/e181aec1-dd83-4353-a6d9-10f82c2ffaac)
-![15](https://github.com/user-attachments/assets/347a7093-451d-411b-92f2-d248da4fc4a9)
-![16](https://github.com/user-attachments/assets/815e4fef-a753-420b-bf32-af655271b89e)
-![17](https://github.com/user-attachments/assets/9fb09fb0-d86e-4cd9-8c3a-d581fd0c7eb5)
-![18](https://github.com/user-attachments/assets/47aec144-b8ed-45a2-bc9c-7f1d6c0711bb)
-![19](https://github.com/user-attachments/assets/90c3e2e1-1bc7-4508-b003-877e467b5d94)
-![20](https://github.com/user-attachments/assets/54f68b54-7339-4880-85b0-682b2a16dad0)
-![21](https://github.com/user-attachments/assets/81c4a667-4190-4826-8f5c-78e7f686fc71)
-![22](https://github.com/user-attachments/assets/b490aa80-e5a1-445b-9910-0b805ccb6354)
-![26](https://github.com/user-attachments/assets/54d17c72-4c4f-44b3-9d69-9517f80f5c74)
+First download and install the xampp server. Open the xampp control panel and then start apache server and mysql in it. Then click on the mysql' admin in xampp. then copy this file into C:\xampp\htdocs this location. After that click on mysql's admin then create a database name as "cricket"
+Then goto import section in browser Importmport cricket.sql file from this downloaded file. Then to start project enter in chrome or in any browser as below
+
+http://localhost/thecricket/index.html
+
+Then use these passwords for authentication For admin:- Admin id: "admin" password : "123" For user:- User id: "user" password: "123" then login.
